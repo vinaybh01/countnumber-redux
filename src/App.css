@@ -1,0 +1,24 @@
+* {
+  background-color: black;
+  color: aliceblue;
+}
+
+.btn {
+  padding: 20px;
+  font-size: larger;
+  background-color: brown;
+  margin: 20px;
+}
+
+.number {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  margin: 0px 100px;
+}
+
+.number h1 {
+  font-size: 100px;
+}
